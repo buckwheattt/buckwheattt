@@ -1,8 +1,12 @@
-## Hi👋
-##🎓 Currently studying Software Engineering at CTU
-##📌 Prague, Czech Republic
-##🗺️ I speak English, Russian and Czech
-##📫 How to reach me: [sofiabuckwheat@gmail.com](mailto:sofiabuckwheat@gmail.com)
+## Hi👋  
+
+🎓 Currently studying Software Engineering at CTU  
+
+📌 Prague, Czech Republic  
+
+🗺️ I speak English, Russian and Czech  
+
+📫 How to reach me: [sofiabuckwheat@gmail.com](mailto:sofiabuckwheat@gmail.com)
 <!--
 **buckwheattt/buckwheattt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
